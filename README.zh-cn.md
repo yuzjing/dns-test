@@ -1,5 +1,7 @@
 # Go DNS Speed Test
 [English](README.md)
+
+
 一个用于测试和评估主流公共 DNS 服务器性能与可靠性的 Go 脚本。
 
 ### 核心功能
